@@ -1,2 +1,2 @@
-# Logica de programacao - SENAI
+# Lógica de programação - SENAI
 Lista de atividades realizadas durante o curso técnico de desenvolvimento de sistemas na instituição SENAI - durante a disciplina de lógica de programação.
